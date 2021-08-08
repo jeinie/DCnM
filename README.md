@@ -1,7 +1,7 @@
 ## Let's build web application with Spring Boot and Kotlin
 ### ✔︎ I want to make my own java-program!# DC-M
 
-**☆ DCnM ☆**
+### ☆ DCnM ☆ ###
 
 **◎ 이름** : 장정윤<br/>
 **◎ 학과** : 컴퓨터공학과 (재학)
@@ -14,6 +14,6 @@
 
 프로젝트 참여인원 : 4명
 
-참여 팀 : 
+참여 팀 : 10팀
 
 프로젝트 계획 취지 또는 내용 : Java로 더 많은 프로젝트 경험을 해보고 싶었기 때문입니다.
